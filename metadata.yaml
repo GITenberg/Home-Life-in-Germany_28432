@@ -1,0 +1,30 @@
+_repo: Home-Life-in-Germany_28432
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sidgwick, Alfred, Mrs.
+    aliases:
+    - Ullmann, Cecily Wilhelmine
+    - Sidgwick, Mrs. Alfred
+    - Sidgwick, Cecily Wilhelmine
+    birthdate: 1854
+    deathdate: 1934
+    gutenberg_agent_id: '33332'
+    url: http://www.gutenberg.org/2009/agents/33332
+description: ''
+gutenberg_issued: '2009-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Social life and customs'
+- !lcc 'DD'
+title: Home Life in Germany
+url: http://www.gutenberg.org/ebooks/28432
